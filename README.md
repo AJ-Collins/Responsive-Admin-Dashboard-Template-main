@@ -27,7 +27,7 @@ Whether you're working on a new project or updating an existing one, This templa
 
 <h3 align="left">Ask anything:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/collins-kiprotich-2708672a5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaveendinethma" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/collins-kiprotich-2708672a5/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaveendinethma" height="30" width="40" /></a>
 </p>
 
 ##UniversityProject #SoftwareDevelopment #WebApplication #GitHubRepo #StudentProjects #TechnologyInnovation #SoftwareEngineering #NodeJS #ReactJS #MongoDB #Heroku #JSONWebTokens #Collaboration #TechnologyForGood
